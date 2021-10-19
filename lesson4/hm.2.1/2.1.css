@@ -1,0 +1,42 @@
+
+.header {
+    height: 150px;
+    background-color: yellow;
+    margin-bottom: 10px;
+}
+
+.head {
+    display: flex;
+    column-gap: 5px;
+}
+
+.menu {
+    height: 600px;
+    flex-grow:1;
+    background-color: red;
+
+}
+
+.post {
+    flex-grow: 2;
+}
+
+.post1 {
+    height: 300px;
+    margin-bottom: 10px;
+    background-color: blue;
+}
+
+.post2 {
+    height: 300px;
+    background-color: blue;
+}
+
+.footer {
+    height: 150px;
+    background-color: green;
+    margin-top: 10px;
+}
+p{
+    text-align: center;
+}
