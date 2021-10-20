@@ -1,0 +1,36 @@
+
+.father{
+    border: 5px solid black;
+    width: 1000px;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+
+}
+
+.header {
+    background-color: blue;
+    margin-bottom: 10px;
+}
+
+.main {
+    display: flex;
+    column-gap: 15px;
+}
+
+.wrap {
+    flex-grow: 1;
+    background-color: green;
+}
+
+.footer {
+    background-color: blue;
+    margin-top: 10px;
+}
