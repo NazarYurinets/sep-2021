@@ -1,0 +1,45 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.conteiner{
+    width: 1000px;
+    border: black 2px solid;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 5px;
+    border-radius: 5px;
+}
+.d-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    display: flex;
+    margin-top: 5px;
+    column-gap: 5px;
+}
+.header, .main_header {
+    height: 150px;
+    background: red;
+}
+.content{
+    display: flex;
+    column-gap: 10px;
+}
+.main_box{
+    height: 150px;
+    background: #9e8f8f;
+    flex-grow: 1;
+}
+.main_left{
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    width: 80%;
+}
+.main_right{
+    flex-grow: 1;
+    background: red;
+}
