@@ -1,0 +1,37 @@
+.conteiner{
+    width: 600px;
+    margin: 0 auto;
+}
+.header{
+    display: flex;
+    column-gap: 15px;
+}
+.d-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.home, .about{
+    background: blue;
+    height: 300px;
+    flex-grow: 1;
+}
+.kabobs{
+    height: 100px;
+    background: darkblue;
+    margin-top: 15px;
+}
+.footer{
+display: flex;
+    column-gap: 15px;
+    margin-top: 15px;
+}
+.footer_items{
+    height: 200px;
+    flex-grow: 1;
+    background: blue;
+
+}
+
+
