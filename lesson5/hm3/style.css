@@ -1,0 +1,40 @@
+.conteiner{
+    width: 800px;
+    margin: auto;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.block_height{
+    height: 200px;
+}
+.text-color{
+    color: white;
+font-size: 20px;
+}
+
+
+.header_block {
+    background-color: blue;
+    margin-bottom: 10px;
+}
+
+.content {
+    display: flex;
+    column-gap: 15px;
+}
+
+.content_block {
+    flex-grow: 1;
+    background-color: #060080;
+}
+
+.footer {
+    background-color: blue;
+    margin-top: 10px;
+    height: 400px;
+}
