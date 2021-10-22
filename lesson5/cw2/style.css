@@ -1,0 +1,280 @@
+:root {
+    --gray: #CED8E1;
+    --blue: #588DA6;
+}
+body{
+    margin: 0 auto;
+}
+
+h1, h2{
+    margin: 0 auto;
+}
+.wrapper{
+    max-width: 1200px;
+    padding: 0 50px;
+    margin: 0 auto;
+}
+.soc-icon{
+    height: 100px;
+    background-color: var(--blue);
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    column-gap: 10px;
+    padding: 0 50px;
+}
+.soc-icon__link{
+    width: 30px;
+    height: 5px;
+    background-color: black;
+}
+.header{
+    background-color: var(--gray);
+    padding: 30px 0 35px;
+}
+.header__top{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__logo{
+    height: 50px;
+    width: 120px;
+    background-color: black;
+    border-radius: 10px;
+}
+.nav{
+    display: flex;
+    column-gap: 20px;
+    align-items: end;
+}
+.nav__item a{
+    text-decoration: none;
+    transition: color .5s;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: black;
+    cursor: pointer;
+}
+.nav__item a:hover{
+    color: blue;
+}
+
+.header_center{
+    background-color: var(--blue);
+}
+.header__main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    row-gap: 30px;
+    padding: 100px 0;
+}
+.header__paragraf{
+    font-size: 20px;
+    line-height: 30px;
+}
+.header__main button{
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: black;
+    color: aliceblue;
+    transition: .5s;
+    border: none;
+    font-size: 20px;
+
+}
+.header__main button:hover{
+    background-color: blue;
+    color: black;
+}
+
+.header_border {
+    border: 2px solid blue;
+    border-radius: 20px;
+    padding: 50px;
+}
+
+.products_title {
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+.products__content {
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+}
+
+.products__icon {
+    flex-grow: 1;
+}
+
+.products__icon_image {
+    height: 150px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.products__icon p {
+    line-height: 24px;
+}
+.about{
+    padding: 50px 0;
+    background-color: var(--blue);
+}
+
+
+.about__grid{
+    display: flex;
+    justify-content: space-between;
+}
+.about_card{
+    width: 30%;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    row-gap: 15px;
+    flex-direction: column;
+    color: #fff;
+    transition: all 0.50s;
+    cursor: pointer;
+    padding: 20px;
+}
+
+.about_card:hover{
+    border-color: blue;
+}
+
+.about__photo{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: black;
+}
+.about__name{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+main{
+    background-color: var(--gray);
+    padding: 30px 0 30px;
+}
+.main_title{
+    text-align: center;
+    padding: 40px;
+}
+
+.main__card{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    row-gap: 50px;
+    column-gap: 50px;
+}
+.main__border{
+    border: 2px solid blue ;
+    border-radius: 10px;
+    padding: 30px;
+    width: 25%;
+
+
+}
+.main__content{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+
+}
+
+.content__img{
+   height: 200px;
+    width: 300px;
+    background-color: black;
+    border-radius: 10px;
+}
+.content__img_wrap{
+    display: flex;
+    margin-top: 15px;
+    column-gap: 100px;
+
+}
+.wrap__img{
+    height: 10px;
+    width: 40px;
+    background-color: black;
+    border-radius: 10px;
+
+}
+.last_block{
+    padding: 100px 0;
+}
+.left_block{
+    background-color: #102B3E ;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    padding-bottom: 50px;
+}
+.contacts{
+    display: flex;
+}
+
+
+
+.left__title{
+    color: aliceblue;
+    font-size: 30px;
+    margin: 20px 0;
+}
+.left_block p{
+    width: 80%;
+    color: aliceblue;
+    line-height: 25px;
+    font-size: 20px;
+    padding-bottom: 50px;
+}
+.left_block button{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #369595;
+    color: aliceblue;
+    transition: .5s;
+    border: none;
+    font-size: 20px;
+}
+.last_block button:hover{
+    background-color: blue;
+    color: black;
+}
+.right_block{
+    background-color: var(--blue);
+}
+footer{
+    background-color: var(--blue);
+    padding: 30px 0;
+}
+.footer_content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 30px;
+}
+.footer__icon{
+    height: 40px;
+    width: 40px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+
