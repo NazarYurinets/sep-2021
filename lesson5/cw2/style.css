@@ -74,6 +74,7 @@ h1, h2{
 .header__paragraf{
     font-size: 20px;
     line-height: 30px;
+    text-align: center;
 }
 .header__main button{
     width: 300px;

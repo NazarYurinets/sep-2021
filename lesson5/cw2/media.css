@@ -1,0 +1,14 @@
+@media screen and (max-width:400px){
+    .products__content,
+    .about__grid{
+        flex-direction: column;
+    }
+
+    .header_border{
+        padding: 20px;
+    }
+
+    .about_card{
+        width: 90%;
+    }
+}
