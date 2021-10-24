@@ -1,14 +1,25 @@
-@media screen and (max-width:400px){
+@media screen and (max-width:500px){
+
+    .header__logo{
+        display: none;
+    }
+
     .products__content,
-    .about__grid{
+    .about__grid,
+    .main__card,
+    .contacts{
         flex-direction: column;
     }
 
-    .header_border{
-        padding: 20px;
-    }
 
     .about_card{
         width: 90%;
+    }
+    .left_block{
+        width: 100%;
+    }
+
+    .main__border{
+        width: 80%;
     }
 }

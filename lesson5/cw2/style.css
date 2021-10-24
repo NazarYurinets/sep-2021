@@ -120,6 +120,9 @@ h1, h2{
     border-radius: 10px;
 }
 
+.about__description {
+    text-align: center;
+}
 .products__icon p {
     line-height: 24px;
 }

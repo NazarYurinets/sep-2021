@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1f22922-6ffc-4fd7-ae8c-6dc48da8757e" name="Changes" comment="lesson5">
-      <change afterPath="$PROJECT_DIR$/lesson5/cw1/media.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/cw2/media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson5/cw1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/cw1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson5/cw1/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/cw1/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5/cw1/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/cw1/media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson5/cw2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/cw2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5/cw2/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/cw2/media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson5/cw2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/cw2/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +88,8 @@
       <workItem from="1634904215725" duration="9820000" />
       <workItem from="1635083339208" duration="4707000" />
       <workItem from="1635088178993" duration="289000" />
-      <workItem from="1635088580782" duration="3120000" />
+      <workItem from="1635088580782" duration="3491000" />
+      <workItem from="1635092095518" duration="6637000" />
     </task>
     <task id="LOCAL-00001" summary="lesson2">
       <created>1634227959702</created>
@@ -161,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634915796095</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="lesson5">
+      <created>1635091923274</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1635091923274</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
