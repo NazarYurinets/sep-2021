@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1f22922-6ffc-4fd7-ae8c-6dc48da8757e" name="Changes" comment="lesson5">
+      <change afterPath="$PROJECT_DIR$/lesson5/additional/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/additional/img/img1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/additional/img/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/additional/img/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/additional/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/additional/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/additional/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson5/cw1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/cw1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson5/cw1/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/cw1/media.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson5/cw2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/cw2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson5/cw2/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/cw2/media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson5/cw2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/cw2/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson4/hm.2.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson5/additional/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -57,11 +60,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson5/additional/img" />
       <recent name="$PROJECT_DIR$/lesson4/hm.2.1" />
       <recent name="$PROJECT_DIR$/lesson4/hm.1" />
       <recent name="$PROJECT_DIR$/lesson3/img" />
       <recent name="$PROJECT_DIR$/lesson3" />
-      <recent name="$PROJECT_DIR$/lessom2/img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -89,7 +92,10 @@
       <workItem from="1635083339208" duration="4707000" />
       <workItem from="1635088178993" duration="289000" />
       <workItem from="1635088580782" duration="3491000" />
-      <workItem from="1635092095518" duration="6637000" />
+      <workItem from="1635092095518" duration="11965000" />
+      <workItem from="1635153411806" duration="910000" />
+      <workItem from="1635159011224" duration="8565000" />
+      <workItem from="1635175042828" duration="1387000" />
     </task>
     <task id="LOCAL-00001" summary="lesson2">
       <created>1634227959702</created>
@@ -168,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635091923274</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="lesson5">
+      <created>1635103805550</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1635103805550</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

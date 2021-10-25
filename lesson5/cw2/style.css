@@ -110,9 +110,6 @@ h1, h2{
     column-gap: 40px;
 }
 
-.products__icon {
-    flex-grow: 1;
-}
 
 .products__icon_image {
     height: 150px;
@@ -247,6 +244,7 @@ main{
     line-height: 25px;
     font-size: 20px;
     padding-bottom: 50px;
+    text-align: justify;
 }
 .left_block button{
     width: 200px;

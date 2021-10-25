@@ -1,0 +1,17 @@
+@media screen and (max-width: 576px){
+    .main_top,
+    .products__content,
+    .central_block{
+        flex-direction: column;
+        row-gap: 40px;
+        justify-content: center;
+        align-items: center;
+        margin-left: 15px;
+    }
+    .about{
+        flex-direction: column;
+    }
+    .carusel__box1,.carusel__box3{
+        display: none;
+    }
+}
