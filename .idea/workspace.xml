@@ -4,16 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1f22922-6ffc-4fd7-ae8c-6dc48da8757e" name="Changes" comment="adaptiv">
-      <change afterPath="$PROJECT_DIR$/lesson7/img/Logo 4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/media.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/style.css" afterDir="false" />
+    <list default="true" id="a1f22922-6ffc-4fd7-ae8c-6dc48da8757e" name="Changes" comment="project">
+      <change afterPath="$PROJECT_DIR$/Main project/img/Ellipse 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main project/img/Vector(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main project/img/bg-carus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main project/img/block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main project/img/bock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main project/img/bolt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main project/img/br.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main project/img/cart 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main project/img/chevron.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main project/img/eliips1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main project/img/eliips2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main project/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main project/img/motor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main project/img/placeholder 1(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main project/img/placeholder 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main project/img/time .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main project/img/user (1) 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main project/img/whatsapp .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main project/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less 7 Germany/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less 7 Germany/img/Air Colled Chillers Small - MRS Transparent3_3 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less 7 Germany/img/Logo 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less 7 Germany/img/Multistage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less 7 Germany/img/Rectangle 166.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less 7 Germany/img/asv4sabu 3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less 7 Germany/img/color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less 7 Germany/img/factory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less 7 Germany/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less 7 Germany/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less 7 Germany/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson6/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/media.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson6/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/normalize.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson6/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/img/Logo 4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/less 7 Germany/img/Logo 4.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/Main project/media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +69,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Main project/index.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1zVKb5UWC5KwjJ3cQeWDpjEdlbA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -50,7 +83,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson7/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Main project/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -60,11 +93,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Main project/img" />
       <recent name="$PROJECT_DIR$/lesson7/img" />
       <recent name="$PROJECT_DIR$/lesson7" />
       <recent name="$PROJECT_DIR$/lesson6/img" />
       <recent name="$PROJECT_DIR$/lesson5/additional/img" />
-      <recent name="$PROJECT_DIR$/lesson4/hm.2.1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lesson6" />
@@ -108,7 +141,10 @@
       <workItem from="1635449052578" duration="1195000" />
       <workItem from="1635689509409" duration="599000" />
       <workItem from="1635700194832" duration="1235000" />
-      <workItem from="1635761914576" duration="3022000" />
+      <workItem from="1635761914576" duration="8399000" />
+      <workItem from="1635779857454" duration="13474000" />
+      <workItem from="1635853531990" duration="21045000" />
+      <workItem from="1635939810000" duration="28740000" />
     </task>
     <task id="LOCAL-00001" summary="lesson2">
       <created>1634227959702</created>
@@ -208,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635348989999</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="bootstrap">
+      <created>1635765144232</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1635765144232</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +275,8 @@
     <MESSAGE value="lesson4" />
     <MESSAGE value="lesson5" />
     <MESSAGE value="adaptiv" />
-    <option name="LAST_COMMIT_MESSAGE" value="adaptiv" />
+    <MESSAGE value="bootstrap" />
+    <MESSAGE value="project" />
+    <option name="LAST_COMMIT_MESSAGE" value="project" />
   </component>
 </project>

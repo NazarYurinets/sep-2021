@@ -1,0 +1,135 @@
+@media screen and (max-width: 576px) {
+
+    .nav_menu {
+        display: none;
+    }
+
+    .nav_media {
+        display: flex;
+        padding: 10px 0 10px;
+    }
+
+    .header_content {
+        display: flex;
+        column-gap: 1px;
+    }
+
+    .header_place,
+    .header_clock,
+    .right_block,
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon{
+        display: none;
+    }
+
+
+    .header_logo {
+        display: flex;
+        width: 100%;
+    }
+
+    .logo_text p {
+        width: 75%;
+        font-weight: normal;
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    .header_write button {
+        display: flex;
+        align-items: center;
+        height: 25px;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 10px;
+        line-height: 12px;
+        width: 188px;
+    }
+
+
+    .header_contact h2 form {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .header_contact p {
+        font-weight: 500;
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    .header_main {
+        display: flex;
+        flex-direction: column-reverse;
+        row-gap: 10px;
+    }
+
+    .catalog_row span, .catalog_main {
+        display: none;
+    }
+
+    .catalog_row img {
+        padding-left: 15px;
+
+    }
+
+    .button_catalog {
+        height: 40px;
+        width: 40px;
+    }
+
+    form.catalog_form input[type=text] {
+        width: 100%;
+        height: 40px;
+    }
+
+    .catalog_form button {
+        height: 40px;
+    }
+
+    .catalog_row {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .carousel_text h4 {
+        font-size: 20px;
+        line-height: 19px;
+
+    }
+
+    .carousel_text h5 {
+        font-size: 14px;
+        line-height: 12px;
+    }
+
+    .carousel_text p {
+        font-size: 22px;
+        line-height: 23px;
+    }
+
+    .carousel_text span {
+        font-size: 16px;
+        line-height: 16px;
+    }
+    .carousel_text button {
+        font-size: 16px;
+        line-height: 16px;
+        width: 124px;
+        height: 34px;
+    }
+
+    .carousel-caption {
+        bottom: 3.5rem;
+    }
+.w-100{
+    height: 270px;
+}
+.bolt{
+    display: flex;
+    flex-direction: column-reverse;
+}
+    .carousel_text{
+        row-gap: 10px;
+    }
+}
