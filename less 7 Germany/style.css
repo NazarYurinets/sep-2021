@@ -218,3 +218,87 @@ span{
 }
 
 
+.w-100{
+
+width: 50% !important;
+
+}
+.carousel-item-next, .carousel-item-prev, .carousel-item.active{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main__button h2{
+
+}
+.flex-row{
+    row-gap: 5px;
+}
+.flex-wrap{
+    column-gap: 5px;
+}
+
+.col-lg-4{
+    width: 32%;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 58%;
+    padding: 0;
+    color: #00000d;
+}
+
+
+.contact {
+    margin: 70px 0;
+}
+
+.contact_main {
+    display: flex;
+    column-gap: 60px;
+}
+
+.contact-header {
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 43px;
+    letter-spacing: -0.4px;
+    color: #1652AC;
+}
+
+.contact-text {
+    width: 35%;
+}
+
+.contact-text_info {
+    font-size: 17px;
+    line-height: 32px;
+    letter-spacing: -0.4px;
+    color: #464C53;
+}
+
+.contact-text_button {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    color: #FFFFFF;
+    background:  #004FC7;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    box-shadow: 0 1px 4px rgba(48, 67, 133, 0.5);
+    border-radius: 12px;
+    width: 306px;
+    height: 69px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-top: 30px;
+}
